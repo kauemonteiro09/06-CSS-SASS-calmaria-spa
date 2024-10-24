@@ -1,0 +1,13 @@
+@use "../abstract/var";
+@use "../abstract/mixins";
+
+footer {
+    background: var.$gradiente-primario;
+    margin-top: 5rem;
+    small {
+        padding: 1.5rem 0;
+        display: flex;
+        justify-content: center;
+        @include mixins.ff-fs-cl(var.$ft-textos, 1rem, var.$cor-primaria);
+    }
+}
