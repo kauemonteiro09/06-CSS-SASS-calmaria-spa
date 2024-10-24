@@ -35,8 +35,6 @@ Durante o desenvolvimento deste projeto, foram utilizados os seguintes conceitos
 
 [![image](https://github.com/user-attachments/assets/fc6afef5-580c-4356-9696-db79dced2ea7)](https://06-css-sass-calmaria-spa.vercel.app/)
 
-*Exemplo de como ficou o projeto final.*
-
 ## 🎓 Curso
 
 Este projeto foi desenvolvido como parte do curso **"SASS e CSS: Estilizando um site"** da Alura, que abrange os seguintes tópicos:
